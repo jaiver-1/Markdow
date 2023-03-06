@@ -57,7 +57,7 @@ para ver mi archivo en la terminal cat NombreArchivo
 1. **git remote add origin URLDelRepositorio** para agregar a un repositorio remoto
 2. **git push -u origin main** para enviar los cambios
 3. **git pull origin main**
-
+4. **git remote rm nombreDeconexion** ejemplo git remote rm origin
 
 
 
