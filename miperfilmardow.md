@@ -47,6 +47,7 @@ para ver mi archivo en la terminal cat NombreArchivo
 6. **git branch** listar las ramas
 7. **git checkout NombreRama** cambiar de rama 
 8. **git checkout -b NombreRama** cambiar y crear nueva rama
+9. **git merge NombreDeRamaAenviarCambios** para mescrar los cambios una rama con la otra 
 ### sintaxis moderna 
 1. **git switch nombreRama** cambiar de rama  
 2. **git switch -c Nombrerama** crear y cambiar de rama 
