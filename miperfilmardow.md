@@ -30,8 +30,28 @@ para ver mi archivo en la terminal cat NombreArchivo
 | clear | para limpiar linea de comandos |
 
 
-##comandos en Visual 
+## comandos en Visual 
 1. Selecionando texto y shit alt + i es para selector multiple 
 2. integración con Git ctr + shit + g 
 
 
+# Comandos Para Git
+
+## iniciales
+
+1. **git init** para crear un repositorio
+2. **git status** para ver que esta pendiente 
+3. **git add NombreArchico o .** para agregar el archivo o con punto todo 
+4. **git commit -m "comentario "** para hacer commit y escribir un comentario 
+5. **git branch NombreRama** para crear nueva rama 
+6. **git branch** listar las ramas
+7. **git checkout NombreRama** cambiar de rama 
+8. **git checkout -b NombreRama** cambiar y crear nueva rama
+### sintaxis moderna 
+1. **git switch nombreRama** cambiar de rama  
+2. **git switch -c Nombrerama** crear y cambiar de rama 
+
+
+
+
+# cambios en mi rama main
